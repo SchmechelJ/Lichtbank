@@ -2,7 +2,7 @@
 
 Interaktive Simulation zur Beugung und Interferenz von Licht für den Physikunterricht der Sekundarstufe II.
 
-**Direkt im Browser öffnen:** https://SchmechelJ.github.io/lichtbank/
+**Direkt im Browser öffnen:** https://DEINNAME.github.io/lichtbank/
 
 Ein Lichtbündel trifft auf ein Objekt und erzeugt ein Bild auf einem Schirm. Die Simulation zeigt dazu drei Ansichten:
 
@@ -50,6 +50,16 @@ Die gesamte Konfiguration steckt im Link. Es wird nichts gespeichert. Die Freisc
 - **Modell Lichtstrahl:** geradlinige Ausbreitung. Auf dem Schirm erscheint der Teil des Bündels, der durch die Öffnungen gelangt.
 - **Mehrere Wellenlängen:** Die Intensitäten werden addiert. Weißes Licht besteht aus gleich starken Anteilen von 400 nm bis 700 nm.
 - **Aufbau-Schema:** Die Wellendarstellung ist schematisch. Die Wellenlänge ist darin stark vergrößert.
+
+## Entstehung
+
+- **Erzeugung:** Der Code wurde im Oktober 2026 mit dem KI-Modell Claude Opus 5.5 (Anthropic) erzeugt.
+- **Vorgaben:** Konzept, fachliche und didaktische Vorgaben sowie Abnahme stammen vom Inhaber dieses Repositorys.
+- **Fachliche Prüfung:** Die Physik wurde numerisch gegen analytische Lösungen geprüft:
+  - Einzelspalt gegen das sinc²-Fernfeld
+  - Kante gegen die Fresnel-Lösung
+  - Lage der Gittermaxima gegen L·tan α mit sin α = k·λ/g
+- **Technischer Test:** Chromium auf Desktop sowie simulierte Tablet- und Smartphone-Ansichten; dazu Safari auf iOS.
 
 ## Datenschutz
 
