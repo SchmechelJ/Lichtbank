@@ -2,7 +2,7 @@
 
 Interaktive Simulation zur Beugung und Interferenz von Licht für den Physikunterricht der Sekundarstufe II.
 
-**Direkt im Browser öffnen:** https://SchmechelJ.github.io/lichtbank/
+**Direkt im Browser öffnen:** [https://SchmechelJ.github.io/lichtbank/](https://schmechelj.github.io/Lichtbank/)
 
 Ein Lichtbündel trifft auf ein Objekt und erzeugt ein Bild auf einem Schirm. Die Simulation zeigt dazu drei Ansichten:
 
